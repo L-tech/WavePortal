@@ -1,4 +1,5 @@
-# Basic Sample Hardhat Project
+# WavePortal
+My First Blockchain project powered by solidity and Ethereum that enables individuals wave at you and stand a chance of winning some ether by doing so. Project thought by Buildspace
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
